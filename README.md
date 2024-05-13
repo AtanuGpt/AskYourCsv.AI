@@ -4,3 +4,5 @@ Upload your .CSV file straight start asking question on the document. I have als
 # About the sample csv dataset
 
 Uncover the factors that lead to employee attrition and explore important questions such as ‘which age range has the highest attrition rate and why’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
+
+# Using LangChain's CSV-Agent package
